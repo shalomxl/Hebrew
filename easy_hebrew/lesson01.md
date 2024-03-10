@@ -1,6 +1,6 @@
 # 轻松希伯来语第一课
 
-## Youtube video
+Youtube video
 
 {% embed url="https://www.youtube.com/watch?v=xo3zr9oHSdU" %}
 Lesson 1
@@ -15,34 +15,9 @@ Lesson 1
 
 ## PPT
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption><p>A</p></figcaption></figure>
-
-</div>
-
-第一张
-
-<figure><img src="../.gitbook/assets/1-20240225102609793.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102623009.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102632491 (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102642647.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102654510.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/1-20240225102703890.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1-20240225102713086.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1-20240225102730516.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102748635.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102801865.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102817396.png" alt=""><figcaption></figcaption></figure>
