@@ -15,11 +15,13 @@ Lesson 1
 
 ## PPT
 
-<div data-full-width="true">
+<div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption><p>A</p></figcaption></figure>
 
 </div>
+
+第一张
 
 <figure><img src="../.gitbook/assets/1-20240225102609793.png" alt=""><figcaption></figcaption></figure>
 
