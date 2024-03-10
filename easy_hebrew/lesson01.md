@@ -15,34 +15,29 @@ Lesson 1
 
 ## PPT
 
-<div data-full-width="false">
+![1.png](assets/1.png)
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption><p>A</p></figcaption></figure>
+![3.png](assets/1-20240225102609793.png)
 
-</div>
+![4.png](assets/1-20240225102623009.png)
 
-第一张
+![5.png](assets/1-20240225102632491.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102609793.png" alt=""><figcaption></figcaption></figure>
+![6.png](assets/1-20240225102642647.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102623009.png" alt=""><figcaption></figcaption></figure>
+![7.png](assets/1-20240225102654510.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102632491 (1).png" alt=""><figcaption></figcaption></figure>
+![8.png](assets/1-20240225102703890.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102642647.png" alt=""><figcaption></figcaption></figure>
+![9.png](assets/1-20240225102713086.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102654510.png" alt=""><figcaption></figcaption></figure>
+![10.png](assets/1-20240225102730516.png)
 
+![11.png](assets/1-20240225102738541.png)
 
+![12.png](assets/1-20240225102748635.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102703890.png" alt=""><figcaption></figcaption></figure>
+![13.png](assets/1-20240225102801865.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102713086.png" alt=""><figcaption></figcaption></figure>
+![14.png](assets/1-20240225102817396.png)
 
-<figure><img src="../.gitbook/assets/1-20240225102730516.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102748635.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102801865.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1-20240225102817396.png" alt=""><figcaption></figcaption></figure>
