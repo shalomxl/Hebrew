@@ -15,7 +15,11 @@ Lesson 1
 
 ## PPT
 
+<div data-full-width="true">
+
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../.gitbook/assets/1-20240225102609793.png" alt=""><figcaption></figcaption></figure>
 
