@@ -15,57 +15,24 @@ Lesson 1
 
 ## PPT
 
-<div align="left">
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1-20240225102609793.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/1-20240225102623009.png" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/1-20240225102632491.png" alt=""><figcaption></figcaption></figure>
-
- 
+<figure><img src="../.gitbook/assets/1-20240225102632491 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1-20240225102642647.png" alt=""><figcaption></figcaption></figure>
 
- 
 
-<figure><img src="../.gitbook/assets/1-20240225102654510.png" alt=""><figcaption></figcaption></figure>
 
- 
+
 
 <figure><img src="../.gitbook/assets/1-20240225102703890.png" alt=""><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/1-20240225102713086.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/1-20240225102730516.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/1-20240225102738541.png" alt=""><figcaption></figcaption></figure>
-
- 
-
 <figure><img src="../.gitbook/assets/1-20240225102748635.png" alt=""><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../.gitbook/assets/1-20240225102801865.png" alt=""><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../.gitbook/assets/1-20240225102817396.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
