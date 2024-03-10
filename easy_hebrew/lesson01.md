@@ -25,11 +25,15 @@ Lesson 1
 
 <figure><img src="../.gitbook/assets/1-20240225102642647.png" alt=""><figcaption></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/1-20240225102654510.png" alt=""><figcaption></figcaption></figure>
 
 
 
 <figure><img src="../.gitbook/assets/1-20240225102703890.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1-20240225102713086.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1-20240225102730516.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1-20240225102748635.png" alt=""><figcaption></figcaption></figure>
 
